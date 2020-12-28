@@ -1,11 +1,11 @@
 import './App.css';
 import 'antd/dist/antd.css';
-import TickerSearch from './TickerSearch'
+import WatchList from './Watch-List/WatchlistCode'
 
 function App() {
   return (
     <div className="App">
-      <TickerSearch />
+      <WatchList/>
     </div>
   );
 }

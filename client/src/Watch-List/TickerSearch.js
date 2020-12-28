@@ -36,7 +36,6 @@ export default function TickerSearch(props) {
           <p>Average Volume</p>
       </Card>
       }
-      
     </div>
   );
 }
